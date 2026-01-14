@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "LIFE LIVE ALIVE",
+  "base_artist": "内田真礼",
+  "createdAt": "2026-01-14T02:45:34.431772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LIFE LIVE ALIVE",
+      "artist": "内田真礼",
+      "has_synced": true,
+      "path": "select/01_LIFE_LIVE_ALIVE_内田真礼.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIFE LIVE ALIVE",
+      "artist": "内田真礼",
+      "has_synced": false,
+      "path": "select/pl_01_LIFE_LIVE_ALIVE_内田真礼.txt"
+    }
+  ]
+}
